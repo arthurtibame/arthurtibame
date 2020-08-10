@@ -50,6 +50,7 @@
 ---
 
 <img align="left" alt="arthurtibame's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthurtibame&show_icons=true&hide_border=true" />
+\n
 ![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=arthurtibame&show_icons=true&theme=radical)
 
 [website]: http://arthurtibame.tk
