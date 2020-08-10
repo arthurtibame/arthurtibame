@@ -17,7 +17,7 @@
 <br />
 
 ### Languages and Tools:
-
+[<img align="left" alt="Kaggle" width="30px" src="https://seeklogo.com/images/K/kaggle-logo-83322F52DE-seeklogo.com.png" />][kaggle]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Python" width="30px" src="https://w7.pngwing.com/pngs/792/780/png-transparent-python-computer-icons-tutorial-computer-programming-social-icons-miscellaneous-angle-text-thumbnail.png" />][website]
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
@@ -56,3 +56,4 @@
 [twitter]: https://twitter.com/arthur4410
 [line]: https://line.me/ti/p/zJUO6aAEyf
 [telegram]: https://t.me/Lin_shu_li
+[kaggle]: https://www.kaggle.com/arthur8485
