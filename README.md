@@ -6,6 +6,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to self-studying and solving problems
 
+ <img align="right" src="https://miro.medium.com/max/1600/1*zm5NLjdhGd3VVTA2u-xEPg.gif" width="200"/>
+ 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
