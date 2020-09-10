@@ -5,11 +5,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to self-studying and solving problems
-<br>
-<br>
+
  <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350"/>
- <br>
- <br>
+
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
