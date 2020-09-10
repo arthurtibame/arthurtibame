@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love to self-studying and solving problems
 
 <div class="row">
-  <div class="col-lg-6 text-left">
-<img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350"/>
+  <div class="col-lg-6 text-mid">
+    <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350"/>
   </div>
 </div>
 
