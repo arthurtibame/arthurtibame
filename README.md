@@ -31,12 +31,12 @@
 <code>[<img alt="codeSTACKr | Line" src="https://www.vectorlogo.zone/logos/line/line-ar21.svg" />][line]</code>
 <code>[<img alt="codeSTACKr | Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" />][telegram]</code>
 
----
+
 
 <br>
 <br>
-<br>
-<br>
+
+---
 
 ### Languages and Tools:
 
