@@ -35,9 +35,9 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" />][kaggle]
-[<img align="left" alt="Visual Studio Code" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />][website]
-[<img align="left" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />][website]
+<code>[<img align="left" alt="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" />][kaggle]</code>
+<code>[<img align="left" alt="Visual Studio Code" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />][website]</code>
+<code>[<img align="left" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />][website]</code>
 [<img align="left" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />][website]
 
 [<img align="left" alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />][website]
