@@ -5,10 +5,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to self-studying and solving problems
-##
+
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350"/>
-##
-📊 **This week I spent my time on**
+
+## 📊This week I spent my time on
 
 <a href="https://codestats.net/users/arthurtibame">
   <img src='https://codestats-readme.wegfan.cn/history-graph/arthurtibame?width=850&height=300&timezone=08:00&history_days=7&max_languages=15&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="arthurtibame's Code::Stats history graph" />
