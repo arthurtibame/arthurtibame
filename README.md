@@ -25,11 +25,11 @@
 
 ### Connect with me:
 logos/line/line-ar21.svg
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Line" width="22px" src="https://www.vectorlogo.zone/logos/line/line-ar21.svg" />][line]
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" />][telegram]
+[<img align="left" alt="codeSTACKr | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Line" src="https://www.vectorlogo.zone/logos/line/line-ar21.svg" />][line]
+[<img align="left" alt="codeSTACKr | Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" />][telegram]
 
 <br />
 
