@@ -31,6 +31,8 @@
 [<img align="left" alt="codeSTACKr | Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" />][telegram]
 
 <br />
+<br />
+<br />
 
 ### Languages and Tools:
 [<img align="left" alt="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" />][kaggle]
