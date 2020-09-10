@@ -11,9 +11,9 @@
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350"/>
   </div>
 </div>
----
+
 ## 📊This week I spent my time on
----
+
 <div class="row">
   <div class="col-lg-6 text-right">
     <a href="https://codestats.net/users/arthurtibame">
