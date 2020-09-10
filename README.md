@@ -8,9 +8,10 @@
 
 <div class="row">
   <div class="col-lg-6 text-mid">
-    <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="300"/>
+    [<img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="300"/>](waketime)
   </div>
 </div>
+
 
 ## 📊This week I spent my time on
 
@@ -147,3 +148,4 @@ TSQL                     1 repos             ░░░░░░░░░░░�
 [telegram]: https://t.me/Lin_shu_li
 [kaggle]: https://www.kaggle.com/arthur8485
 [facebook]: https://www.facebook.com/shuli.lin1/
+[waketime]: https://wakatime.com/dashboard
