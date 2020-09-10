@@ -5,15 +5,19 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to self-studying and solving problems
-
+<div class="row">
+  <div class="col-lg-6 text-left">
 <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350"/>
-
+  </div>
+</div>
 ## 📊This week I spent my time on
-
-<a href="https://codestats.net/users/arthurtibame">
-  <img src='https://arthurtibame-code-stats.herokuapp.com/history-graph/arthurtibame?width=550&height=300&timezone=08:00&history_days=14&max_languages=15&language_colors=[%223e4053%22,%22f15854%22,%225da5da%22,%22faa43a%22,%2260bd68%22,%22f17cb0%22,%22b2912f%22,%22decf3f%22,%22b276b2%22,%22808080%22]' alt="arthurtibame's Code::Stats history graph" />
-</a>
-
+<div class="row">
+  <div class="col-lg-6 text-right">
+    <a href="https://codestats.net/users/arthurtibame">
+      <img src='https://arthurtibame-code-stats.herokuapp.com/history-graph/arthurtibame?width=550&height=300&timezone=08:00&history_days=14&max_languages=15&language_colors=[%223e4053%22,%22f15854%22,%225da5da%22,%22faa43a%22,%2260bd68%22,%22f17cb0%22,%22b2912f%22,%22decf3f%22,%22b276b2%22,%22808080%22]' alt="arthurtibame's Code::Stats history graph" />
+    </a>
+  </div>
+</div>
 ---
 
 ### Connect with me:
