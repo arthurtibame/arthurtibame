@@ -6,25 +6,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to self-studying and solving problems
 
- <img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350"/>
 
 📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-Docker       6 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   29.47 % 
-Python       3 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-AWS          2 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Hadoop       2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Spark        1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-```
-<!--END_SECTION:waka-->
-
-### Recently I'm coding in...
 
 <a href="https://codestats.net/users/arthurtibame">
-  <img src='https://codestats-readme.wegfan.cn/history-graph/arthurtibame?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="arthurtibame's Code::Stats history graph" />
+  <img src='https://codestats-readme.wegfan.cn/history-graph/arthurtibame?width=850&height=300&timezone=08:00&history_days=7&max_languages=15&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="arthurtibame's Code::Stats history graph" />
 </a>
-
+<img align="right" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="350"/>
 ---
 
 ### Connect with me:
