@@ -24,7 +24,6 @@
 ---
 
 ### Connect with me:
-logos/line/line-ar21.svg
 [<img align="left" alt="codeSTACKr | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />][linkedin]
