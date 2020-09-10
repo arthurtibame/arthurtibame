@@ -30,10 +30,6 @@
 [<img align="left" alt="codeSTACKr | Line" src="https://www.vectorlogo.zone/logos/line/line-ar21.svg" />][line]
 [<img align="left" alt="codeSTACKr | Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" />][telegram]
 
-<br />
-<br />
-<br />
-
 ### Languages and Tools:
 <code>[<img align="left" alt="Kaggle" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" />][kaggle]</code>
 <code>[<img align="left" alt="Visual Studio Code" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />][website]</code>
@@ -54,9 +50,6 @@
 <code>[<img align="left" alt="GitHub"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />][website]</code>
 
 
-<br />
-<br />
-<br />
 <br />
 <br />
 
