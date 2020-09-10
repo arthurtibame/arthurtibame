@@ -41,7 +41,7 @@
 
 [<img align="left" alt="MongoDB" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" />][website]
 [<img align="left" alt="GCP"  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" />][website]
-[<img align="left" alt="AWS" src=https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />][website]
+[<img align="left" alt="AWS" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" />][website]
 [<img align="left" alt="Hadoop" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" />][website]
 [<img align="left" alt="Spark"  src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />][website]
 [<img align="left" alt="Kafka"  src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" />][website]
