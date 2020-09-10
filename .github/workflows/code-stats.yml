@@ -14,3 +14,4 @@ jobs:
       - uses: arthurtibame/arthurtibame@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_LOC_CHART: True
