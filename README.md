@@ -25,12 +25,16 @@
 ---
 
 ### Connect with me:
-<code>[<img align="left" alt="codeSTACKr | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />][website]</code>
-<code>[<img align="left" alt="codeSTACKr | Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" />][twitter]</code>
-<code>[<img align="left" alt="codeSTACKr | LinkedIn"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />][linkedin]</code>
-<code>[<img align="left" alt="codeSTACKr | Line" src="https://www.vectorlogo.zone/logos/line/line-ar21.svg" />][line]</code>
-<code>[<img align="left" alt="codeSTACKr | Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" />][telegram]</code>
+<code>[<img alt="codeSTACKr | Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />][website]</code>
+<code>[<img alt="codeSTACKr | Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" />][twitter]</code>
+<code>[<img alt="codeSTACKr | LinkedIn"  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />][linkedin]</code>
+<code>[<img alt="codeSTACKr | Line" src="https://www.vectorlogo.zone/logos/line/line-ar21.svg" />][line]</code>
+<code>[<img alt="codeSTACKr | Telegram" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg" />][telegram]</code>
 
+---
+
+<br>
+<br>
 <br>
 <br>
 
@@ -52,6 +56,8 @@
 <code>[<img alt="Linux" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" />][website]</code>
 <code>[<img alt="GitHub"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />][website]</code>
 
+<br>
+<br>
 
 <img align="left" alt="arthurtibame's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthurtibame&show_icons=true&hide_border=true" />
 
