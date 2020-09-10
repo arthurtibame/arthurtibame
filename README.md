@@ -51,7 +51,6 @@
 <code>[<img align="left" alt="Linux" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" />][website]</code>
 <code>[<img align="left" alt="GitHub"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />][website]</code>
 
----
 
 <img align="left" alt="arthurtibame's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arthurtibame&show_icons=true&hide_border=true" />
 
