@@ -66,6 +66,79 @@
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-237-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 260 Contributions in the Year 2020
+ > 
+> 📦 564.9 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 58 Public Repositories
+ > 
+> 🔑 11 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+🌆 Daytime    132 commits    ████████████░░░░░░░░░░░░░   48.71% 
+🌃 Evening    86 commits     ████████░░░░░░░░░░░░░░░░░   31.73% 
+🌙 Night      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.96% 
+Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
+Wednesday    35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
+Thursday     110 commits    ██████████░░░░░░░░░░░░░░░   40.59% 
+Friday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
+Saturday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.38% 
+Sunday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.01%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   17 repos            ███████████░░░░░░░░░░░░░░   43.59% 
+Jupyter Notebook         7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95% 
+Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
+TSQL                     1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/arthurtibame/arthurtibame/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
