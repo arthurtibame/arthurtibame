@@ -75,7 +75,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 74 Public Repositories
+> 📜 75 Public Repositories
  > 
 > 🔑 11 Private Repositories 
 
