@@ -73,7 +73,7 @@
 
 > 🏆 18 Contributions in the Year 2021
  > 
-> 📦 786.5 kB Used in GitHub's Storage 
+> 📦 786.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -140,7 +140,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/arthurtibame/arthurtibame/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/11/2021
+ Last Updated on 18/11/2021
 <!--END_SECTION:waka-->
 
 
