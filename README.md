@@ -75,7 +75,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 788.3 kB Used in GitHub's Storage 
+> 📦 788.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -83,48 +83,6 @@
  > 
 > 🔑 12 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    1 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌆 Daytime    1 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    1 commits      ████████████░░░░░░░░░░░░░   50.0% 
-Thursday     1 commits      ████████████░░░░░░░░░░░░░   50.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -142,7 +100,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/arthurtibame/arthurtibame/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/03/2022 15:53:02 UTC
+ Last Updated on 06/09/2022 16:23:33 UTC
 <!--END_SECTION:waka-->
 
 
